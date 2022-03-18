@@ -44,6 +44,13 @@ Il termine Proof-of-Work (PoW) indica l’algoritmo di consenso alla base di una
 
 Il nodo che per primo risolve il puzzle ha diritto di inserire il blocco sulla blockchain e ottiene una ricompensa per incentivare la continuazione del lavoro. Solo in questo modo un utente può essere sicuro che tutte le proprie transazioni vengano incluse nella blockchain.
 
+- Proof of Stake (PoS)
+
+1) No miners but Validators or Forgers
+2) Transaction fees can be claimed
+3) No mining. The original amount of Coin will not vary
+4) No race but randomly selection of the validators
+
 - Nodi di Staking
 
 Il principio di consenso alla base della convalida delle operazioni dei nodi staking è la Proof of Stake (PoS). Per partecipare alla creazione, all'approvazione e alla convalida dei blocchi, gli staker sono tenuti a detenere determinati quantitativi di monete. Oltre alle monete investite, gli algoritmi di consenso PoS considerano anche il tempo nella blockchain, il numero totale di staker nella blockchain, nonché un fattore casuale nel determinare chi convalida un blocco.
