@@ -1,19 +1,9 @@
 # Node_Blockchain
 
-# Criptography
+Un nodo completo è un computer nella rete peer-to-peer di Bitcoin che ospita e sincronizza una copia dell'intera blockchain Bitcoin. I nodi sono essenziali per mantenere in funzione una rete di criptovaluta.
 
-Is a method of developing techniques and protocols to prevent a third party form accessing and gaining knowledge of the data from the private messages during a communication process.
+ - Nodo completo
 
-From Greek:
+Secondo la documentazione Bitcoin Core, "un nodo completo è un programma che convalida completamente le transazioni e i blocchi. Quasi tutti i nodi completi, inoltre, supportano la rete accettando transazioni e blocchi da altri nodi completi, convalidando tali transazioni e blocchi e poi ritrasmettendoli ad altri nodi completi." 
 
-Kryptos ==>> Hidden
 
-Graphein ==>> To write
-
- - Encryption: A process that converts PLAIN text into CIPHERTEXT
- - Encryption <<==>> Decription
- - Cipher: The mathematical function that is used to convert plaintext to ciphertext
- - Key: A small amount of information that is required to induce the output of the cryptographic algorithm
- - Ceaser Cipher (switch letter by 1)
-
-The caesae cipher is one example of a larger class of techniques called Substitution Ciphers. 
